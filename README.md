@@ -18,10 +18,10 @@ This scene shows you:
 
 **Install the CLI**
 
-Download and install the Decentraland CLI by running the following command:
+Download and install the Andverse CLI by running the following command:
 
 ```bash
-npm i -g decentraland
+npm i -g andverse
 ```
 
 **Previewing the scene**
@@ -29,13 +29,11 @@ npm i -g decentraland
 Download this example and navigate to its directory, then run:
 
 ```
-$:  dcl start
+$:  acl start
 ```
 
 Any dependencies are installed and then the CLI opens the scene in a new browser tab.
-Learn more about how to build your own scenes in our [documentation](https://docs.decentraland.org/) site.
 
-If something doesn’t work, please [file an issue](https://github.com/decentraland-scenes/Awesome-Repository/issues/new).
 
 ## Copyright info
 
